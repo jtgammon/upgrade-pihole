@@ -1,0 +1,34 @@
+git_private_key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  MIIEowIBAAKCAQEApVL6uVR7wGRGRdA3lpLbQjaxBLoTurzFY2FgRRFcIqDCE4Oa
+  Ulc5PfBifqb4QXGtk7G3J2V8nDl3j7r9LRLElsALD0msqGLDmANmzTqeW1+bVV7o
+  mGoxU1gqdDEMii+1wr76aglugN19JAjSx7ghHZLBNCnMzH9YliQmibVUwmu1nfWw
+  Z4aFu6MnyBHcMFMMfqXbKazj7OK5BVGqv4qhK6JFiCALh6+RjWwST0d8fyMG9e7a
+  eLtOzc1RRBn/LHC+HP7/Uyatj4UT0Pz4OGmgN9FySqL8kxCrmNzE2cbmqGL3c0nf
+  TcadgIj351ucGbIE5pD2F0yoSciznhNOxi0yQQIDAQABAoIBACC3OAh+0HJ1JXbh
+  Sm7QpvUGb6dYz1ivzHvrJCrm0Y3EtEM6UsqimiBItqULk6sXvNqyW2U/bxZXRPK7
+  dSh7Q031uPqQgMtdqAkn+yr3w6ifVdTiEDNBKHuuwc/2eN3LrTNZqaJcNXLo4b/E
+  wzlklaENjpAtCWsadERZ6QptSNWkO4Iw1G6q4ukRO+EJ61/E9iWyLaiskO7dJFgc
+  5seMk+cXWCcGqUtloA17e0ANiKnA16Wa1U/+qqubjSXqPmmpRX1mVPHox7Zn/lvH
+  iZdE+0rWKAZaUpMD+aGHGtZNSa+EVZbLZT71J7z7fy4wpMfnwf5vYsLFPR/eV2J1
+  NDtg4CUCgYEAz+Z16r+PM59epDlLzXjFrPnIv5Zla2ENMG8NmVoGDE6wK9sJiCtG
+  xIRPPPJI1VgIMbDeEqrp0cA88pV6ztK+l36uoXKbozNaaAlssl0YRFyckzqlBlNl
+  gHn3fqYv6wW8mnplDMwty/uNxGpcB++x8ToY9YNzYfKF7gwB53zavA8CgYEAy5LR
+  EPjF16sADwzumBHab/LsjoA56u1skz2/6jmIEQKzxzy3IEmysj9EVlRunswdtQbM
+  TmP02SvW+4CU9Rg6A5Zm5vtp8etDY60TS6n1Q3ZFLcXnPkpve8kdDO33bgdmNUYY
+  SDSGyFuQOu+q+fL+6gof5st5bCPAaGymdi2bHK8CgYB7U+4tVHeBmw/MgcSq3fL9
+  uqtQo8oEGe12BtrdVp7x3Bf73BLaeTmgyBAtSljUXkV2HMKP9l2ANPayvOO+Hxw6
+  yEaVtWQIOyVtQ/H8GOeVXg7v88EDcKNsxG2B7tnMJHoOdX7OSaz9LXuawbFYb+Ny
+  AxHdSp4+w1yZqvvSM6maFwKBgQCPlGJuVPe9L/dfpiBWEyl8kdp0e03eO0y74O6N
+  9bvZO42u9Uy3siMeAu9g8DYBPDerqTrKA0f7MCd1xW/KGic4xoiXWzWTEfq6v6R/
+  VkUNKsqKCS4aygctSGB78Q71hLR62JBhxOJXR/VHDCkMF23hhfiQIGzob6LSQ+d4
+  LJxdMwKBgFh9ntPBQrpR3coOwINFLlWTCq67FANqluliJaHBTcljMTseP2LDMDRf
+  9PZsLWaMdLVyb6r3EUYGlZtyyTY7nc3k/IW9v2x4zzvOnjKrDhI9xO4yoH7jwJa+
+  PNN8tXnq/zEnQhNgKlLfkodEKDjmhqUhVrFvszHR/8sJPV/6IZy0
+  -----END RSA PRIVATE KEY-----
+opsman_admin_username: CHANGEME
+opsman_admin_password: CHANGEME
+opsman_client_id: CHANGEME
+opsman_client_secret: CHANGEME
+opsman_domain_or_ip_address: CHANGEME
+ssh_password: Harb0rdt
